@@ -1,0 +1,62 @@
+---
+title: "Process Statement"
+author: "Abby Komiske"
+doc: pdf 
+--- 
+
+## Reflect
+1. Reflect on your journey:
+
+    a. How has your understanding of quantitative text analysis evolved over the course of the semester?
+    
+      1. My understanding of quantitative text analysis certainly evolved over the course of the semester. When I began the class in January, I had never coded before. I was not even sure what quantitative data analysis truly was in terms of corpus linguistics, only that it was used for research purposes to study research goals. 
+    
+   b. Consider your perceived gains in the three learning outcomes.
+    
+    The three learning outcomes include: 
+    
+    a. Identify, interpret, and evaluate data analysis procedures and results
+    
+      1. Throughout the course, I have come to understand how choice plays into how research is conducted and what the findings can be as a result. 
+      2. I have also learned how one can manipulate research to discover support, or the lack thereof, for one's research questions. 
+      3. Lastly, I learned about how evaluating the validity and reliability of findings based on textual data depends on the reproducibility of the data analysis, as well as the mentioned choices that a researcher must make for the research to be equitable and accurate.  
+    
+   b. Design, implement, and communicate research
+   
+      1. As a result of this course, I created a research prospectus to address a research question of my own relating to linguistic study. 
+      2. I set up the foundation to implement text analysis techniques with computational tools to develop insights resulting from text analysis from data. 
+      3. I presented my research progress with a written report and a oral presentation. 
+   
+   c. Apply programmatic strategies to develop and collaborate on reproducible research projects
+   
+      1. I used RStudio and programming for my text analysis. 
+      2. In my prospectus, I address a research question of my own design, the methodology behind its execution, and an analysis plan including the documentation of my data sources, the sampling strategy I would use for my research, and the statistical analysis which aligns with the tenants of reproducible research practices.
+      3. I certainly collaborated with my peers, who were my main research community. I was active throughout our readings and lessons to provide my own insights and ask questions about research techniques. I also shared my work on my Github for anyone to look at and collaborate with. I will say, Logan was the main peer that I collaborated with, especially in the last few weeks of the prospectus project. 
+  
+ 
+## Connect
+2. Connect with your past:
+
+      1. What resources or strategies have been most supportive in your learning?
+      
+     a. The textbook and instructor have been most supportive to my learning. Additionally, the surrounding literature of legal linguistics has supported my learning and prospectus. Research on legal corpora for linguistic purposes is still new and growing, so I had to combine multiple sources to get a foundation for my studies. 
+      b. I also attended a lecture to support my learning -  
+        Dr. Chad Howe’s lecture on April 18th at Wake Forest University on “Challenges and solutions in the development of Quechua language corpora” helped enhance my understanding of quantitative data analysis. His lecture was highly pertinent and informative for studying linguistic research. He spoke on how the access to digital resources is very limited for indigenous languages, especially Quechua, which is spoken in South America. Accordingly, in hopes of expanding the limited knowledge on Quechua’s linguistic properties, Dr. Howe’s study on ‘na’ illuminates how linguistic corpora can be analyzed to dive deeper into language. There is much research on place-holder sounds (hesitators/fillers) for highly popular languages like English/German/Spanish, but not in Quechua. To this end, Quechua’s use of ‘na’ is unlike other languages’ use of ‘na’ and was proposed by Dr. Howe to be a placeholder for a forgotten or missed word in speech. He collected data with Dr. Sarah Hubbel from 2017-1019 in Cusco with guided interviews with Quechua/Spanish. The interviews were transcribed and tokens were accounted for. ‘Na’ was found as a hesitation mark and suffix. Using placeholder examples, Dr. Howe suggests then that Quechua ‘na’ is mainly used as a hesitator rather than as a placeholder sound. He used tokens to compare where/in what ways ‘na’ was used, finding that of the 115 tokens of ‘na’, 63.5% of ‘na’ in Quechua was used as a placeholder but is certainly also often used as a hesitator when in isolation. This differs from the Spanish use of ‘na’, which is primarily issued as a hesitator. Dr. Howe also spoke on his research into the indigeneity of colonial Quechua texts, such as Ollantay, as well as producing a Quechua corpora for others to use in their own research. His team used the OCR Post Correlation of Endangered Language Texts and made corrections with FromThePage. Then, they ran an AI test to check for errors to check for where they needed to fix errors of the transfer. A morphological analyzer was then used to determine if roots were nouns or verbs, but it could not determine some roots so hands-on determination was needed. They found Spanish influence. They used TEI coding and added it to the TAPAS Commons with morphological markings. Dr. Howe spoke of how important corpus is, especially for low-resource languages like Quechua, for machine translation, linguistic research for the linguistic digital divide, and so forth. His lecture affirmed my absorption of class content, as I was able to understand the data analysis he used for his study and why.  
+    
+    
+      2. Share a challenging concept or activity that you encountered and how you overcame it.
+    
+    I have often faced challenges in this class. For example, I remember the first major difficulty I had was in lab 3 when we had to read, inspect, and assess the data origin, data dictionary, and the data itself to create a statistical overview, as well as tabular and visual summaries. I had major difficulties with the 'cvs' aspect of the lab. I spent a long time in the library trying to figure that out so that I could create the statistical overview and then my tabular and visual summaries. I attempted to work it out, but after much struggle, I turned to the professor. I had done everything that would have equipped me to solve the problem on my own, but I knew I was just missing a small piece that I could not see. After emailing the professor, I got it right away. I think this lab taught me a lot that helped me overcome the rest of what I thought was challenging - do all you can to solve the problem, but, when you can't take it any further, look for help. I have since consulted the professor but also my classmates, which has greatly helped my learning experience and I believe that I will walk away from this class better for it.    
+
+
+## Look ahead: 
+3. Look ahead:
+
+    How do you anticipate applying your learning in future contexts?
+    
+      1. I will use my competency in quantitative data analysis next year in my politics senior seminar, where we have to design our own study, which is often based on corpus. Everything I learned in this class will therefore be very pertinent for my future studies. 
+      2. Further, career wise, I hope to go to law school and then become a lawyer. With the rise of AI and generative software, studying how we can use metadata and quantitative analysis might become highly beneficial to me and provide me an asset that others do not have experience with. 
+      3. Lastly, I hope to bring the problem solving skills I honed during this class into my everyday life. Even if I don't use RStudio or GitHub again, I am better off for learning about them.  
+  
+## References 
+
